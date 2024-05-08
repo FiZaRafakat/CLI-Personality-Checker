@@ -1,0 +1,26 @@
+{
+  "name": "fiza07_personality-checker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin" : "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fiza Rafakat",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "chalk-animation": "^2.0.3",
+    "clear": "^0.1.0",
+    "inquirer": "^9.2.20",
+    "ora": "^8.0.1"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/clear": "^0.1.4",
+    "@types/inquirer": "^9.0.7",
+    "@types/ora": "^3.2.0"
+  }
+}
